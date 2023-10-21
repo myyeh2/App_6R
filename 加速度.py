@@ -86,5 +86,5 @@ plt.title(r'$**Time-Acceleration$**').set_fontsize(16)
 plt.grid(axis = 'both')  
 plt.legend(loc = 'best')  
 
+#  plt.savefig('Acceleration.png')  
 plt.show()  
-

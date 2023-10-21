@@ -86,4 +86,5 @@ plt.title(r'$**Time-Disp-Relationship$**').set_fontsize(16)
 plt.grid(axis = 'both')  
 plt.legend(loc = 'best')  
 
+#  plt.savefig('Displacement.png')
 plt.show()  
