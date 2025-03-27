@@ -58,7 +58,7 @@
 
 ## CSharp 程式碼 : 
 
-```c# 
+```c#
 // J. L. Humar,"Dynamics of Structures"，第502-504頁
 // 與 ConsoleApp_6J 相同，僅多出一個合並點，第2點是合併第0點和第1點。  
 
@@ -163,7 +163,6 @@ Console.Write("\n\n");
 }
 ```
 
----
+---  
 
-##  
-##  
+###  
